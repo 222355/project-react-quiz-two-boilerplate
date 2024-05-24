@@ -29,10 +29,8 @@ span{
   font-size: 20px;
 }
 .options{
-  /* display: flex; */
   justify-content: space-evenly;
   align-items: center;
-  /* font-size: 50px; */
 }
 .options button{
   width: 40%;
